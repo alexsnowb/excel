@@ -24,7 +24,9 @@
   },
   "homepage": "https://github.com/alexsnowb/excel#readme",
   "private": true,
-  "browserslist": ["> 0.25%, not dead"],
+  "browserslist": [
+    "> 0.25%, not dead"
+  ],
   "devDependencies": {
     "@babel/core": "^7.9.6",
     "@babel/preset-env": "^7.9.6",
